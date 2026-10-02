@@ -1,0 +1,9 @@
+chat/
+backend/.env
+backend/documents/
+backend/chroma_db
+.dist/
+
+__pycache__/
+
+

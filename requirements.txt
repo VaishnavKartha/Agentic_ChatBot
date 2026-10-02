@@ -1,0 +1,15 @@
+langchain
+langgraph
+dotenv
+pydantic
+fastapi
+langchain-core
+langchain-groq
+uvicorn
+pymongo
+langgraph-checkpoint-mongodb
+langchain-text-splitters
+langchain-community
+pypdf
+langchain-chroma 
+sentence-transformers
